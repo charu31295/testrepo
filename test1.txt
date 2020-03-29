@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is B490-457C
+
+ Directory of C:\Users\charubansal\Desktop\MyProj
+
+03/29/2020  03:53 PM    <DIR>          .
+03/29/2020  03:53 PM    <DIR>          ..
+03/29/2020  03:53 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  139,248,451,584 bytes free
